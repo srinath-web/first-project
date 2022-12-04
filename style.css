@@ -1,0 +1,30 @@
+*{
+    background-color: gold;
+}
+.sri{
+    background-color: chartreuse;
+    color: crimson;
+    text-align: center;
+    border-style: dashed;
+    background-repeat: no-repeat;
+}
+.rithi{
+    
+    text-align: center;
+}
+.rithi h1{
+    border-style: solid;
+    border-color: aliceblue;
+}
+.sri button{
+    background-color: deeppink;
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 60px;
+    padding: 7px;
+    margin: 20px;
+}
+.sri img{
+    height: auto;
+    width: 90vw;
+}
